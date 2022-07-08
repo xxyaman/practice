@@ -1,0 +1,1 @@
+puts "WEBCAMPでオンライン学習".include?("オンライン")
